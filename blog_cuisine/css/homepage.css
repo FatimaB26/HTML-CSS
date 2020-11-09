@@ -1,0 +1,188 @@
+@font-face {
+        font-family: Oswald;
+        src: url('../fonts/Oswald-VariableFont_wght.ttf') format('truetype');
+}
+
+@font-face {
+font-family: courgette;
+src: url('../fonts/Courgette-Regular.ttf') format('truetype');
+}
+
+* {
+    font-family: oswald;
+}
+
+.transparent {
+width: 100%;
+z-index: -2;
+margin-top: -300px;
+}
+
+
+.cuizine {
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    top: 30%;
+    font-size: 50px;
+    color: white;
+}
+
+.lemag {
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    top: 40%;
+    font-size: 30px;
+    color: white;
+}
+
+.logo {
+        position: absolute;
+        top: 17%;
+        left: 47%;
+        height: 70px;
+        width: 70px;
+     }
+
+
+.derniers {
+    justify-content: center;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+
+.imgheader {
+    margin-left: 0px;
+    margin-right: 0px;
+    background-size: cover;
+}
+
+.container {
+    justify-content: center;
+}
+
+
+.container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    width: 100%;
+    padding-right: 0px;
+    padding-left: 0px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.art1 {
+    margin-bottom: 30px;
+    justify-content: center;
+}
+
+.art2 {
+    margin-bottom: 30px;
+    justify-content: center;
+}
+
+.art3 {
+    margin-bottom: 30px;
+    justify-content: center;
+}
+
+
+.titre1 {
+    font-size: large;
+}
+
+.titre2 {
+    font-size: large;
+}
+
+.titre3 {
+    font-size: large;
+}
+
+.page-link {
+    font-size: small;
+    position: absolute;
+    top: 185%;
+    left: 7%;
+}
+
+.bg-dark {
+    z-index: 1;
+    opacity: 0.8;
+    background-color: #000000!important;
+}
+
+.navbar-light .navbar-brand {
+    color: #FFFFFF;
+}
+
+.navbar-light .navbar-toggler {
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #FFFFFF;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #FFFFFF;
+}
+
+.img1 {
+    width: 185px;
+    height: 110px;
+}
+
+.text1 {
+vertical-align: middle;
+font-size: small;
+}
+
+.img2 {
+    width: 200px;
+    height: 110px;
+}
+
+.text2 {
+    vertical-align: middle;
+    font-size: small;
+    }
+
+.img3 {
+    width: 200px;
+    height: 110px;
+}
+
+.text3 {
+    vertical-align: middle;
+    font-size: small;
+    }
+
+
+.footer {
+    background-color: black;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 70px;
+    height: 250px;
+}
+
+li {
+    list-style: none;
+}
+
+.front {
+    font-family: courgette;
+    font-size: 30px;
+}
+
+.détails {
+font-size: 15px;
+}
+
+.principal {
+    font-size: 50px;
+}

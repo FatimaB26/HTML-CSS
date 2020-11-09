@@ -1,0 +1,100 @@
+* {
+    margin-bottom: 5px;
+}
+
+.yellow {
+    background-color: yellow;
+    height: 50px;
+    margin-right: 15px;
+}
+
+.yellow2 {
+    background-color: yellow;
+    height: 50px;
+    margin-left: 15px;
+}
+
+.blue {
+    background-color: blue;
+    height: 50px;
+    margin-right: 15px;
+}
+
+.blue2 {
+    background-color: blue;
+    height: 50px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.blue3 {
+    background-color: blue;
+    height: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.blue4 {
+    background-color: blue;
+    height: 50px;
+    margin-left: 15px;
+}
+
+.red {
+    background-color: red;
+    height: 50px;
+    margin-right: 15px;
+}
+
+.red2 {
+    background-color: red;
+    height: 50px;
+    margin-left: 15px;
+}
+
+.green {
+    background-color: green;
+    height: 50px;
+    margin-right: 15px;
+}
+
+.green2 {
+    background-color: green;
+    height: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.green3 {
+    background-color: green;
+    height: 50px;
+    margin-left: 15px;
+}
+
+.silver {
+    background-color: rgb(110, 110, 110);
+    height: 50px;
+}
+
+.yellow3 {
+    background-color: yellow;
+    height: 50px;
+    margin-left: 380px;
+}
+
+.blue5 {
+    background-color: blue;
+    height: 50px;
+    margin-left: 280px;
+}
+
+.red3 {
+    background-color: red;
+    margin-right: 570px;
+    height: 50px;
+}
+
+.red4 {
+    background-color: red;
+    height: 50px;
+}

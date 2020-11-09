@@ -1,0 +1,44 @@
+@media (min-width: 600px) and (max-width: 900px) {
+    /* Base */
+
+    .content {
+        width: 768px;
+        margin: 0 auto;
+    }
+
+    /* Nav */
+    nav ul {
+        display: block;
+        padding: 0;
+        margin: 0;
+        list-style: none;
+        float: left;
+        padding: 24px;
+    }
+    nav li {
+        float: left;
+        margin-left: 15px;
+    }
+
+    /* Header */
+    header {
+        width: 768px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    header .name,
+    header .picture {
+        vertical-align: top;
+        display: inline-block;
+        width: 384px;
+    }
+
+}
+
+@media (min-width: 900px) {
+
+}
+
+@media (min-width: 1500px) {
+    
+}
